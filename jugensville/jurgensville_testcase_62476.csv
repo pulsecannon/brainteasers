@@ -1,0 +1,90 @@
+1, 6.0, omelette
+1, 10.0, pizza
+1, 4.0, dosa
+1, 2.0, fish
+1, 10.0, egg
+1, 7.0, chicken
+1, 7.0, wine
+1, 4.0, pizza, wine, chicken,
+1, 10.0, egg, dosa, pizza, wine, omelette, fish,
+1, 10.0, dosa, fish,
+1, 6.0, wine, pizza, dosa, fish, omelette, egg, chicken,
+2, 3.0, egg
+2, 7.0, chicken
+2, 3.0, pizza
+2, 6.0, omelette
+2, 2.0, dosa
+2, 10.0, omelette, pizza,
+2, 2.0, fish, egg, wine, pizza, omelette, dosa,
+2, 3.0, omelette, wine, pizza, egg, fish, chicken, dosa,
+2, 3.0, fish, wine, egg,
+3, 9.0, wine
+3, 7.0, dosa
+3, 10.0, omelette
+3, 10.0, egg
+3, 5.0, chicken
+3, 3.0, egg, wine, dosa, fish, pizza,
+3, 5.0, omelette, pizza, dosa,
+4, 7.0, fish
+4, 2.0, wine
+4, 7.0, omelette
+4, 10.0, chicken
+4, 3.0, pizza, fish, chicken, omelette,
+4, 4.0, omelette, dosa, fish, egg, chicken,
+4, 9.0, pizza, egg,
+4, 7.0, fish, egg, chicken,
+4, 6.0, egg, dosa, omelette,
+4, 7.0, chicken, omelette, dosa, fish, pizza, egg,
+5, 10.0, dosa
+5, 2.0, fish
+5, 2.0, wine
+5, 2.0, chicken
+5, 8.0, egg
+5, 2.0, omelette, chicken,
+5, 3.0, dosa, egg,
+6, 10.0, chicken
+6, 5.0, fish
+6, 9.0, pizza
+6, 8.0, dosa
+6, 4.0, wine
+6, 2.0, dosa, chicken,
+6, 5.0, dosa, chicken, fish, wine,
+6, 8.0, pizza, omelette, dosa, egg, wine, fish, chicken,
+6, 7.0, dosa, wine, fish,
+7, 7.0, pizza
+7, 2.0, dosa
+7, 10.0, chicken
+7, 10.0, omelette
+7, 2.0, wine
+7, 2.0, fish
+7, 10.0, egg
+7, 8.0, chicken, egg, omelette, pizza, fish,
+7, 6.0, dosa, chicken, egg, pizza, fish, omelette, wine,
+7, 2.0, wine, omelette, pizza, chicken, dosa, egg,
+8, 6.0, omelette
+8, 3.0, dosa
+8, 7.0, egg
+8, 10.0, fish
+8, 8.0, wine
+8, 8.0, pizza
+8, 9.0, chicken, pizza, dosa, egg, wine, fish, omelette,
+8, 7.0, fish, omelette, egg, pizza,
+8, 9.0, pizza, wine, omelette, dosa, fish, egg,
+8, 2.0, wine, pizza, omelette, fish, egg,
+8, 6.0, wine, dosa, egg, fish, chicken, pizza,
+8, 7.0, omelette, chicken, dosa, fish, wine, pizza,
+9, 3.0, egg
+9, 7.0, pizza
+9, 3.0, omelette
+9, 6.0, fish
+9, 3.0, chicken
+9, 8.0, wine
+9, 7.0, dosa
+9, 7.0, chicken, omelette, wine, fish,
+9, 10.0, pizza, omelette, dosa, fish, wine,
+10, 2.0, wine
+10, 4.0, fish
+10, 4.0, omelette, egg, wine, fish,
+10, 4.0, pizza, omelette, wine, chicken, egg, dosa, fish,
+10, 4.0, dosa, chicken,
+

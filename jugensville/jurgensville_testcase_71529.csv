@@ -1,0 +1,78 @@
+1, 8.0, rissotto
+1, 7.0, egg
+1, 4.0, uttapam, dosa, egg, burger, rissotto,
+1, 10.0, uttapam, rissotto, dosa, burger,
+1, 10.0, uttapam, burger, egg, rissotto,
+1, 7.0, egg, dosa, rissotto,
+2, 8.0, uttapam
+2, 5.0, rissotto
+2, 10.0, egg
+2, 4.0, uttapam, egg, burger, dosa, rissotto,
+2, 7.0, rissotto, dosa, uttapam,
+2, 8.0, dosa, egg, rissotto, burger,
+2, 8.0, uttapam, egg, rissotto,
+2, 8.0, rissotto, uttapam, burger, dosa,
+2, 5.0, burger, uttapam, rissotto,
+3, 7.0, egg
+3, 9.0, dosa
+3, 8.0, burger
+3, 5.0, uttapam
+3, 6.0, rissotto
+3, 4.0, dosa, burger, uttapam, egg, rissotto,
+3, 2.0, rissotto, uttapam, egg,
+3, 4.0, egg, burger, dosa,
+3, 5.0, uttapam, rissotto, dosa,
+4, 5.0, egg
+4, 8.0, burger
+4, 6.0, burger, dosa, egg,
+4, 8.0, uttapam, rissotto, burger, egg,
+4, 10.0, uttapam, egg, rissotto, burger, dosa,
+5, 10.0, burger
+5, 10.0, dosa
+5, 3.0, egg
+5, 7.0, uttapam
+5, 8.0, uttapam, burger, egg, rissotto, dosa,
+5, 6.0, uttapam, egg,
+5, 10.0, burger, egg, uttapam,
+5, 6.0, uttapam, burger,
+6, 9.0, dosa
+6, 4.0, rissotto
+6, 9.0, burger, rissotto, dosa, egg,
+6, 4.0, dosa, rissotto,
+6, 3.0, uttapam, dosa,
+6, 7.0, uttapam, rissotto,
+6, 8.0, egg, burger, rissotto, dosa, uttapam,
+7, 9.0, burger
+7, 5.0, egg
+7, 2.0, uttapam
+7, 8.0, burger, dosa,
+7, 7.0, rissotto, dosa,
+7, 8.0, rissotto, burger, uttapam, dosa, egg,
+7, 4.0, egg, uttapam, rissotto,
+7, 6.0, uttapam, rissotto, burger,
+7, 10.0, rissotto, burger, egg,
+8, 4.0, rissotto
+8, 3.0, burger
+8, 8.0, uttapam
+8, 3.0, uttapam, burger, dosa, egg,
+8, 3.0, uttapam, burger, egg,
+8, 2.0, egg, uttapam, rissotto,
+8, 3.0, uttapam, egg, dosa,
+8, 6.0, egg, rissotto, uttapam, dosa,
+8, 8.0, dosa, uttapam, burger,
+8, 9.0, burger, rissotto, egg, dosa, uttapam,
+9, 5.0, dosa
+9, 5.0, burger
+9, 8.0, rissotto
+9, 9.0, rissotto, uttapam, burger, dosa, egg,
+9, 8.0, burger, egg, rissotto,
+9, 8.0, burger, dosa,
+9, 9.0, burger, dosa, rissotto, uttapam,
+9, 10.0, uttapam, dosa, egg,
+10, 8.0, dosa
+10, 7.0, burger
+10, 9.0, rissotto
+10, 10.0, egg, rissotto,
+10, 9.0, dosa, rissotto, burger, uttapam, egg,
+10, 4.0, uttapam, burger,
+

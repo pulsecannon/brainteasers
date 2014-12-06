@@ -1,0 +1,125 @@
+1, 3.0, fish
+1, 7.0, uttapam
+1, 10.0, pasta
+1, 9.0, beer, pasta, wine,
+1, 9.0, wine, uttapam, omelette, fish, beer,
+1, 4.0, pasta, fish, beer, uttapam, wine,
+1, 6.0, omelette, uttapam, wine, pasta, beer, fish,
+1, 2.0, beer, uttapam, pasta, wine, omelette,
+1, 8.0, omelette, beer, uttapam,
+1, 5.0, wine, omelette,
+1, 5.0, wine, pasta,
+1, 9.0, omelette, beer, wine, fish,
+2, 4.0, wine
+2, 8.0, fish
+2, 10.0, beer, fish, omelette, wine, pasta, uttapam,
+2, 2.0, fish, pasta, beer, uttapam,
+2, 6.0, uttapam, wine,
+2, 9.0, omelette, fish, pasta, uttapam,
+2, 6.0, pasta, uttapam, beer, fish, wine,
+2, 7.0, omelette, uttapam,
+2, 4.0, wine, fish, uttapam, pasta,
+2, 4.0, wine, omelette,
+2, 5.0, wine, uttapam, pasta, beer,
+2, 7.0, uttapam, fish,
+2, 5.0, pasta, wine, omelette, uttapam,
+3, 8.0, uttapam
+3, 6.0, beer
+3, 3.0, wine
+3, 7.0, pasta
+3, 6.0, omelette
+3, 2.0, fish, wine, uttapam, beer, pasta, omelette,
+3, 6.0, uttapam, wine, omelette, fish,
+3, 5.0, fish, wine,
+3, 6.0, pasta, beer, omelette, wine, fish,
+3, 5.0, beer, pasta, uttapam, fish,
+3, 6.0, pasta, beer, uttapam,
+3, 4.0, uttapam, wine, beer, fish,
+3, 2.0, omelette, pasta,
+3, 6.0, omelette, wine,
+3, 4.0, pasta, wine,
+4, 6.0, omelette
+4, 10.0, fish
+4, 9.0, beer
+4, 9.0, uttapam
+4, 6.0, pasta, uttapam, fish, beer,
+4, 3.0, pasta, omelette, wine, fish,
+4, 2.0, wine, omelette, beer, fish, pasta, uttapam,
+4, 2.0, pasta, fish,
+4, 5.0, omelette, pasta, beer, wine, uttapam,
+4, 9.0, pasta, omelette, uttapam,
+4, 10.0, pasta, uttapam, wine, omelette, fish,
+5, 5.0, pasta
+5, 5.0, beer
+5, 2.0, omelette
+5, 8.0, wine
+5, 10.0, omelette, fish,
+5, 10.0, beer, omelette, uttapam, wine,
+5, 7.0, beer, fish, wine,
+5, 9.0, omelette, uttapam, beer, fish, pasta, wine,
+5, 5.0, beer, fish, uttapam, pasta, omelette,
+5, 8.0, omelette, fish, uttapam,
+5, 6.0, wine, beer, pasta,
+5, 6.0, uttapam, wine,
+5, 5.0, wine, omelette, uttapam,
+5, 5.0, pasta, beer, omelette, uttapam,
+5, 2.0, wine, omelette,
+5, 7.0, wine, omelette, beer,
+6, 2.0, pasta
+6, 3.0, fish
+6, 9.0, beer
+6, 2.0, omelette
+6, 9.0, omelette, uttapam, wine, beer, fish, pasta,
+6, 10.0, omelette, pasta, uttapam,
+6, 7.0, fish, wine, uttapam,
+7, 2.0, omelette
+7, 6.0, pasta
+7, 3.0, beer
+7, 5.0, pasta, uttapam,
+7, 5.0, pasta, omelette, uttapam, beer, wine,
+7, 3.0, fish, pasta, beer, wine,
+7, 6.0, beer, omelette, fish,
+7, 3.0, pasta, beer, fish,
+7, 2.0, uttapam, pasta, omelette, fish,
+7, 2.0, beer, pasta, uttapam, omelette, fish,
+7, 2.0, uttapam, fish, wine, pasta, omelette, beer,
+7, 6.0, uttapam, wine, pasta, omelette,
+7, 8.0, omelette, beer, fish, wine,
+8, 5.0, beer
+8, 9.0, uttapam
+8, 7.0, fish
+8, 5.0, wine
+8, 2.0, fish, uttapam, omelette, beer, wine, pasta,
+8, 3.0, pasta, fish, omelette, uttapam,
+8, 7.0, wine, beer,
+8, 10.0, wine, fish,
+8, 4.0, beer, fish, omelette, wine, pasta,
+8, 7.0, beer, wine, uttapam, fish,
+8, 7.0, pasta, fish, omelette, beer,
+8, 3.0, wine, uttapam, fish,
+8, 4.0, beer, wine, fish, pasta, uttapam,
+9, 2.0, omelette
+9, 10.0, pasta
+9, 5.0, pasta, fish, uttapam, omelette, beer, wine,
+9, 7.0, fish, pasta, wine,
+9, 6.0, pasta, beer,
+9, 4.0, beer, omelette, pasta, uttapam,
+9, 8.0, pasta, omelette, wine, uttapam,
+9, 8.0, wine, omelette, fish,
+9, 5.0, fish, beer, omelette, wine, pasta,
+9, 4.0, pasta, omelette, beer,
+9, 8.0, omelette, wine, pasta, fish,
+9, 4.0, wine, uttapam, omelette, fish, pasta,
+9, 10.0, wine, pasta, beer, uttapam, fish,
+10, 7.0, wine
+10, 8.0, uttapam
+10, 3.0, wine, uttapam, pasta, omelette,
+10, 5.0, omelette, pasta,
+10, 4.0, fish, wine, pasta, uttapam,
+10, 8.0, pasta, wine, omelette, fish, beer, uttapam,
+10, 4.0, omelette, fish, wine, pasta,
+10, 9.0, omelette, fish, wine,
+10, 3.0, omelette, wine, uttapam, pasta, fish,
+10, 5.0, fish, uttapam,
+10, 2.0, beer, wine, uttapam,
+

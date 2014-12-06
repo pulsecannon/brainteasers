@@ -1,0 +1,134 @@
+1, 5.0, uttapam
+1, 7.0, rissotto
+1, 2.0, beer
+1, 10.0, wine
+1, 7.0, dosa
+1, 7.0, fish
+1, 10.0, idly
+1, 6.0, egg
+1, 4.0, burger
+1, 6.0, beer, dosa, egg, rissotto, burger, fish, pasta, idly, wine, uttapam,
+1, 3.0, dosa, idly, egg, fish,
+1, 7.0, uttapam, burger, egg,
+1, 9.0, dosa, beer, fish, uttapam, egg, pasta,
+1, 4.0, fish, rissotto, idly, egg,
+2, 8.0, idly
+2, 9.0, egg
+2, 8.0, wine
+2, 10.0, rissotto
+2, 6.0, uttapam
+2, 9.0, rissotto, uttapam,
+2, 3.0, uttapam, dosa, burger, rissotto,
+2, 3.0, pasta, burger, beer, wine, fish, uttapam, rissotto, egg, dosa, idly,
+2, 2.0, uttapam, burger, rissotto, idly, beer, pasta, dosa, wine,
+2, 4.0, fish, burger, egg, idly, uttapam, beer, pasta,
+2, 2.0, egg, rissotto,
+3, 5.0, uttapam
+3, 7.0, rissotto
+3, 4.0, burger
+3, 2.0, fish
+3, 6.0, pasta
+3, 9.0, beer
+3, 10.0, dosa
+3, 10.0, wine
+3, 2.0, rissotto, wine, burger, idly, egg, uttapam, pasta,
+3, 8.0, egg, fish, wine, burger, dosa, pasta, rissotto, uttapam, beer, idly,
+3, 6.0, pasta, rissotto,
+3, 2.0, pasta, fish, rissotto, beer,
+3, 3.0, dosa, idly, uttapam,
+3, 9.0, pasta, dosa, rissotto, fish, burger,
+3, 5.0, pasta, beer, dosa, egg, rissotto, wine, uttapam,
+3, 2.0, wine, rissotto, idly, uttapam, dosa, pasta, egg,
+4, 2.0, burger
+4, 5.0, egg
+4, 5.0, pasta
+4, 5.0, beer
+4, 9.0, wine
+4, 3.0, idly
+4, 2.0, fish
+4, 9.0, uttapam
+4, 9.0, dosa
+4, 5.0, rissotto
+4, 2.0, wine, fish,
+4, 2.0, wine, beer,
+4, 8.0, fish, pasta, wine, beer,
+5, 7.0, pasta
+5, 8.0, dosa
+5, 3.0, uttapam
+5, 5.0, rissotto
+5, 8.0, egg
+5, 5.0, idly
+5, 3.0, beer
+5, 6.0, burger
+5, 10.0, fish
+5, 5.0, wine
+5, 2.0, dosa, rissotto, pasta, uttapam, fish, burger, egg, idly, beer,
+5, 8.0, wine, dosa, fish, rissotto, pasta, idly, beer, egg, uttapam, burger,
+5, 7.0, uttapam, egg, pasta,
+5, 10.0, wine, rissotto, beer, idly, uttapam, fish,
+5, 4.0, wine, fish, burger, beer, dosa, egg, uttapam,
+6, 3.0, wine
+6, 6.0, dosa
+6, 9.0, uttapam
+6, 8.0, beer
+6, 10.0, egg
+6, 3.0, burger
+6, 5.0, rissotto
+6, 5.0, pasta
+6, 9.0, fish
+6, 5.0, egg, rissotto, uttapam, wine,
+6, 8.0, uttapam, fish, wine, dosa, pasta, rissotto, burger, egg, beer, idly,
+6, 3.0, rissotto, wine, pasta, idly, dosa, egg, beer, fish,
+7, 9.0, fish
+7, 9.0, rissotto
+7, 2.0, idly
+7, 5.0, pasta
+7, 8.0, dosa
+7, 5.0, wine
+7, 8.0, beer
+7, 8.0, wine, pasta, egg, burger, idly, rissotto, beer, fish,
+7, 3.0, idly, pasta, rissotto, wine, uttapam, fish, burger, egg,
+7, 8.0, burger, rissotto, wine, uttapam, pasta, egg, beer, idly, fish,
+8, 2.0, burger
+8, 9.0, fish
+8, 4.0, egg
+8, 8.0, rissotto
+8, 8.0, idly
+8, 9.0, wine
+8, 5.0, dosa
+8, 9.0, uttapam
+8, 10.0, wine, idly, pasta, burger, dosa, egg, beer,
+8, 8.0, fish, pasta, rissotto, egg, uttapam, beer,
+8, 5.0, burger, idly, egg, dosa, beer, rissotto, pasta,
+8, 4.0, beer, fish, idly, pasta, wine, burger, rissotto, egg,
+8, 4.0, burger, wine, fish, rissotto, uttapam, egg, idly,
+9, 5.0, beer
+9, 8.0, wine
+9, 7.0, uttapam
+9, 10.0, egg
+9, 5.0, burger
+9, 7.0, dosa
+9, 2.0, rissotto
+9, 4.0, fish
+9, 8.0, pasta
+9, 8.0, idly
+9, 6.0, egg, uttapam, wine, dosa, rissotto, idly, fish, pasta, burger,
+9, 2.0, egg, burger,
+9, 9.0, fish, egg, burger,
+9, 8.0, dosa, rissotto, wine, uttapam, burger, beer, pasta, fish, idly,
+9, 4.0, wine, uttapam, idly, rissotto, fish, egg,
+10, 6.0, egg
+10, 6.0, idly
+10, 3.0, beer
+10, 10.0, burger
+10, 10.0, pasta
+10, 9.0, rissotto
+10, 3.0, wine
+10, 5.0, dosa
+10, 3.0, uttapam
+10, 7.0, pasta, burger, rissotto, idly, wine, fish, beer,
+10, 6.0, egg, wine, pasta, fish, idly, dosa, burger, beer,
+10, 6.0, idly, burger, uttapam, egg, rissotto, fish, dosa, beer, pasta,
+10, 8.0, burger, egg, pasta, fish, idly, wine, uttapam, rissotto, dosa,
+10, 7.0, egg, uttapam, fish, rissotto, burger, pasta,
+
